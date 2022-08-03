@@ -1,5 +1,7 @@
 # Online-Shop
 
+main class Shopfront.java
+
 This is a program i created as part of an idea given to me by my tutor from my online coarse in java, it was suggested that i create an online shop to showcase, i was told that i could write in program form and not an actually online shop on the web, aslong as it acted like a shop in practice, so this is what i came up with, all in all it was quite an easy project the design is all my own which i am quite proud of, as i think it looks very good, coding wise it is ok, but i didnt make enough comments and it could be a bit tidier
 
 the hardest part about writing this program was the menu action, which after not too much trial and error i came up with a cool way to do it, where there is infinite ammount of product to be added to the categories, every time you click what you want the program reads the database and feeds it into the 6 windows and you click next or back to read the next 6 items, only when there is no more items to show does the next button not work, the program autofills any empty product spaces with a coming soon picture.
