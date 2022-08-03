@@ -1,0 +1,12 @@
+AddCategoryBackground
+AddProductBackground
+RemoveCategoryBackground
+CustomerWindowBackground
+SalesWindowBackground
+LogInBackground
+SignUpBackground
+ContactUsBackground
+basketBackground
+AddAdminBackground
+ChangePictureBackground
+
